@@ -53,7 +53,7 @@ child: Column(
               child:  Icon(Icons.person_add_alt,
                 size: 15.h,
               )
-          )
+          ),
 
           ),
         ),
